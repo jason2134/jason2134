@@ -65,7 +65,7 @@ CNN-based Traffic Sign Recognition system using the BTSC dataset.
 **Skills**
 - Computer Vision: CNN, Image Processing, Data Augmentation
 
-🔗 <a href='https://github.com/robayedl/TrafficSignRecognitionUsingCNN'>GitHub Repo</a>
+🔗 <a href='https://github.com/jason2134/TrafficSignRecognitionUsingCNN'>GitHub Repo</a>
 
 ---
 **AI E-NOSE Air Quality System for Smart Building**
