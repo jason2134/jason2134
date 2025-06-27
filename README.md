@@ -115,7 +115,7 @@ This web application that detects features the following in history and real tim
 
 
 ```
-“Let's Build Business Together!!!” 🚀
+“Let's Grow Business Together!!!” 🚀
 ```
 
 
